@@ -1,10 +1,12 @@
 # MERN Deployment Project
 
 This project demonstrates the deployment of a MERN stack (MongoDB, Express, React, Node.js) application using AWS services, Jenkins for CI/CD, Docker for containerization, and Kubernetes (EKS) for orchestration.
+
 # MERN Deployment Project
 
-This project demonstrates the deployment of a MERN stack application using AWS services, Jenkins for CI/CD, Docker for containerization, and Kubernetes (EKS) for orchestration.
+This project demonstrates the deployment of a MERN stack application using AWS services, Jenkins for CI/CD, Docker for containerization, and Kubernetes (EKS) for orchestration. 
 
+#deployment_guide.md attached 
 
 
 ## Project Structure
