@@ -1,0 +1,13 @@
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: my-cluster
+  region: us-west-2
+
+nodeGroups:
+  - name: standard-workers
+    instanceType: t2.micro
+    desiredCapacity: 3
+    minSize: 1
+    maxSize: 4

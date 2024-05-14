@@ -1,0 +1,8 @@
+replicaCount: 2
+image:
+  repository: your-account-id.dkr.ecr.your-region.amazonaws.com/backend
+  tag: latest
+  pullPolicy: Always
+service:
+  type: LoadBalancer
+  port: 80
